@@ -1,0 +1,165 @@
+main {
+  margin-left:5vh;
+  margin-right:5vh;
+    
+    
+}
+body {
+    background-color: lightgray;
+    height:100vh;
+    width:100%;
+  
+
+}    
+header  {
+  margin:0 auto;
+    
+}     
+.logo {
+    background-color:rgb(19, 25, 33);
+    padding-bottom:15px;
+    padding-left:5vh;
+
+}  
+.logo img  {
+    width: 150px;
+   
+}     
+
+
+#navigazione {
+    background-color: rgb(35, 47, 62);
+    padding-top: 1px;
+    padding-bottom:1px;
+    color:white;
+    padding-left:5vh;
+    
+
+}  
+.regali {
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+    background-image: url("./assets/logo.png");
+    background-size: cover;
+    background-repeat: repeat-y;
+
+} 
+li {
+    list-style-type: none;
+    display: inline-block;
+} 
+nav ul {
+    padding-left: 0;
+
+    
+} 
+nav ul li {
+    padding-right: 10px;
+}    
+.bg-jumbotron  {
+  
+    color: white;
+    text-align: center;
+    background-image: url("./assets/bg-image.png");
+    background-repeat: repeat-y;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-size: cover;
+   
+ 
+} 
+.col-24 {
+    width: 24%;
+    display: inline-block;
+    height: 300px;
+    padding-left:7px;
+    
+
+} 
+#regali p {
+    padding-left:7px;
+
+}     
+.col-24 img {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+} 
+.slogan {
+    padding-top:5px;
+    
+   
+} 
+.x {
+    background-color: orangered;
+    color: white;
+    text-align:center;
+    padding-bottom:5px;
+    padding-top:5px;
+}     
+#regali { 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+}
+.container1 {
+    background-color: white;
+    padding-bottom:10px;
+    padding-top:10px;
+
+}
+
+
+
+  
+    
+#musica {
+    padding-bottom:20px;
+}    
+.centro { 
+    text-align: center;
+    margin-top:0;
+    font-weight: 500;
+}  
+       
+a {
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight:500;
+
+} 
+.col-100 {
+    width:100%;
+    height:300px;
+    border-radius: 10px;
+} 
+.col-100 img  {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+} 
+.fix {
+    background-color: rgb(35, 47, 62);
+    padding-top:8px;
+    padding-bottom:3px;
+} 
+.logofin  {
+    background-color:rgb(19, 25, 33) ;
+    padding-top:40px;
+    padding-bottom:30px;
+
+} 
+.logofin img {
+    width: 150px;
+    margin-left:45%;
+}    
+footer div p a {
+    color:white;
+    text-decoration: underline;
+}   
